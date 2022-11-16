@@ -1,0 +1,19 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Luiz-NP/marketplace.git",
+  "author": "Luiz <gustavoooliveira111@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@types/readline-sync": "^1.4.4",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
